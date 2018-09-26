@@ -1,1 +1,1 @@
-# RNN
+# A text classifier using BiLSTM
